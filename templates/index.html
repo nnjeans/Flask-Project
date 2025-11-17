@@ -1,208 +1,30 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Flask App Homepage</title>
-
-    <!-- Oceanic Themed Styling -->
-    <style>
-        body {
-            font-family: 'Arial', sans-serif;
-            background-color: #e0f7fa; /* Light ocean blue background */
-            color: #222;
-            margin: 0;
-            padding: 0;
-            display: flex;
-            flex-direction: column;
-            min-height: 100vh;
-        }
-
-        header {
-            background-color: #006064; /* Deep teal */
-            color: white;
-            text-align: center;
-            padding: 1.5rem 0;
-            font-size: 1.8rem;
-            letter-spacing: 1px;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-        }
-
-        main {
-            flex: 1;
-            display: flex;
-            align-items: flex-start;
-            justify-content: center;
-            flex-direction: column;
-            padding: 2rem;
-            max-width: 900px;
-            margin: auto;
-        }
-
-        h1 {
-            font-size: 2.5rem;
-            margin-bottom: 0.5rem;
-            color: #006064;
-        }
-
-        p {
-            font-size: 1.2rem;
-            color: #555;
-            margin-bottom: 1.5rem;
-        }
-
-        a {
-            display: inline-block;
-            text-decoration: none;
-            background: #006064;
-            color: white;
-            padding: 0.8rem 1.4rem;
-            border-radius: 8px;
-            transition: background 0.3s;
-            margin-top: 1rem;
-        }
-
-        a:hover {
-            background: #004d40;
-        }
-
-        /* Sections Styling */
-        .section {
-            background-color: #b2ebf2; /* Soft oceanic teal */
-            padding: 1.5rem;
-            margin-top: 3rem;
-            border-radius: 10px;
-            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-            width: 100%;
-            max-width: 800px;
-        }
-
-        .section h2 {
-            margin-top: 0;
-            color: #006064;
-        }
-
-        /* Footer Styling */
-        footer {
-            text-align: center;
-            padding: 1rem;
-            font-size: 0.9rem;
-            color: #555;
-            background-color: #e0f7fa;
-            margin-top: 2rem;
-        }
-
-        /* Quiz Styles */
-        .quiz {
-            margin-top: 2rem;
-        }
-
-        .quiz-question {
-            font-weight: bold;
-            margin-bottom: 0.5rem;
-        }
-
-        .quiz-options {
-            list-style: none;
-            padding: 0;
-        }
-
-        .quiz-options li {
-            margin-bottom: 0.5rem;
-        }
-
-        .result {
-            margin-top: 1rem;
-            font-weight: bold;
-        }
-    </style>
+    <meta charset="UTF-8">
+    <title>Numerics©</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 </head>
 <body>
+    <nav>
+        <a href="/">Home</a>
+        <a href="/html">HTML</a>
+        <a href="/css">CSS</a>
+        <a href="/flask">Flask</a>
+        <a href="/python">Python</a>
+        <a href="/quiz">Quiz</a>
+    </nav>
 
-    <header>
-        Flask Project Home
-    </header>
+    <h1>Welcome to Numerics!</h1>
+    <p>This site provides tutorials on HTML, CSS, Flask, and Python.</p>
 
-    <main>
-        <h1>Welcome to My Flask App!</h1>
-        <p>This page is rendered using <code>render_template("index.html")</code>.</p>
+    <div class="main-links">
+        <a href="/html">Learn HTML</a>
+        <a href="/css">Learn CSS</a>
+        <a href="/flask">Learn Flask</a>
+        <a href="/python">Learn Python</a>
+    </div>
 
-        <a href="/testing">Go to Testing Endpoint</a>
-
-        <!-- Flask Tutorial Section -->
-        <section class="section">
-            <h2>How to Use Flask</h2>
-            <ol>
-                <li><strong>Install Flask:</strong> Run <code>pip install Flask</code> in your terminal.</li>
-                <li><strong>Create Your App:</strong> Set up your Python script with Flask routes.</li>
-                <li><strong>Render Templates:</strong> Use <code>render_template()</code> to serve HTML pages.</li>
-                <li><strong>Run Your Server:</strong> Execute your script to start the Flask development server.</li>
-                <li><strong>Access Your Site:</strong> Open <code>http://localhost:5000</code> in your browser.</li>
-            </ol>
-        </section>
-
-        <!-- HTML & CSS Tutorial Section -->
-        <section class="section">
-            <h2>Learn Basic HTML & CSS</h2>
-            <p>HTML (HyperText Markup Language) is used to structure content on the web, while CSS (Cascading Style Sheets) styles that content.</p>
-            <h3>HTML Basics</h3>
-            <ul>
-                <li><strong>Tags:</strong> Elements like <code>&lt;h1&gt;</code>, <code>&lt;p&gt;</code>, and <code>&lt;a&gt;</code>.</li>
-                <li><strong>Attributes:</strong> Additional info inside tags, e.g., <code>href</code> in links.</li>
-                <li><strong>Creating a Link:</strong> <code>&lt;a href="URL"&gt;Link Text&lt;/a&gt;</code></li>
-            </ul>
-            <h3>CSS Basics</h3>
-            <ul>
-                <li><strong>Selectors:</strong> Target elements, e.g., <code>body</code>, <code>.class</code>, <code>#id</code>.</li>
-                <li><strong>Properties:</strong> Define styles like <code>color</code>, <code>background-color</code>, <code>font-size</code>.</li>
-                <li><strong>Example:</strong> <br><code>body { background-color: #e0f7fa; }</code></li>
-            </ul>
-            <p>Start experimenting by editing your HTML and CSS to customize your website!</p>
-        </section>
-
-        <!-- Quiz Section -->
-        <section class="section quiz">
-            <h2>Quick Quiz: What is Flask?</h2>
-            <div class="quiz-question">Which of the following is a Python web framework?</div>
-            <ul class="quiz-options">
-                <li><input type="radio" name="quiz" id="q1" value="Flask" /> <label for="q1">Flask</label></li>
-                <li><input type="radio" name="quiz" id="q2" value="React" /> <label for="q2">React</label></li>
-                <li><input type="radio" name="quiz" id="q3" value="Angular" /> <label for="q3">Angular</label></li>
-                <li><input type="radio" name="quiz" id="q4" value="Laravel" /> <label for="q4">Laravel</label></li>
-            </ul>
-            <button onclick="checkAnswer()">Submit Answer</button>
-            <div class="result" id="quizResult"></div>
-        </section>
-    </main>
-
-    <footer>
-        &copy; {{ 2025 }} Flask App by Noah
-    </footer>
-
-    <!-- JavaScript for Quiz -->
-    <script>
-        function checkAnswer() {
-            const options = document.getElementsByName('quiz');
-            let selected = '';
-            for (const opt of options) {
-                if (opt.checked) {
-                    selected = opt.value;
-                    break;
-                }
-            }
-            const resultDiv = document.getElementById('quizResult');
-            if (selected === 'Flask') {
-                resultDiv.textContent = 'Correct! Flask is a Python web framework.';
-                resultDiv.style.color = 'green';
-            } else if (selected === '') {
-                resultDiv.textContent = 'Please select an answer.';
-                resultDiv.style.color = 'orange';
-            } else {
-                resultDiv.textContent = 'Incorrect. The correct answer is Flask.';
-                resultDiv.style.color = 'red';
-            }
-        }
-    </script>
-
+    <footer>© 2025 Numerics© by Noah</footer>
 </body>
 </html>

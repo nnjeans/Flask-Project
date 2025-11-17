@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Numerics© – CSS Tutorial</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+
+<nav>
+    <a href="/">Home</a>
+    <a href="/html">HTML</a>
+    <a href="/css">CSS</a>
+    <a href="/flask">Flask</a>
+    <a href="/python">Python</a>
+    <a href="/quiz">Quiz</a>
+</nav>
+
+<h1>CSS Basics</h1>
+<p>Learn how to style webpages using Cascading Style Sheets.</p>
+
+<div class="main-links" style="margin-top:40px;">
+    <h2>What is CSS?</h2>
+    <p style="max-width:700px; margin:auto;">
+        CSS controls the <strong>appearance</strong> of your webpage — colors, fonts,
+        spacing, alignment, animations, and layout.
+    </p>
+
+    <h3>Selector Types:</h3>
+    <ul style="max-width:700px; margin:auto; text-align:left;">
+        <li><strong>element selector:</strong> <code>p { color: red; }</code></li>
+        <li><strong>class selector:</strong> <code>.box { padding: 10px; }</code></li>
+        <li><strong>ID selector:</strong> <code>#title { font-size: 2rem; }</code></li>
+    </ul>
+
+    <h3>Example CSS:</h3>
+    <pre style="max-width:700px; margin:auto; text-align:left;">
+body {
+    background: white;
+    font-family: Arial;
+}
+
+h1 {
+    color: navy;
+}
+
+button {
+    padding: 10px;
+    border-radius: 6px;
+}
+    </pre>
+
+    <h3>Connecting CSS to HTML:</h3>
+    <pre style="max-width:700px; margin:auto; text-align:left;">
+&lt;link rel="stylesheet" href="style.css"&gt;
+    </pre>
+</div>
+
+<footer>© 2025 Numerics© by Noah</footer>
+
+</body>
+</html>

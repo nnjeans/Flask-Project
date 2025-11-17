@@ -1,0 +1,552 @@
+[
+ {
+   "Timestamp": "11/7/2025 14:30:20",
+   "Email Address": "adi.p27@k12.xrds.org",
+   "text": "what does nbsp do?",
+   "choice0": "adding a link into your html",
+   "choice1": "a non-breaking space",
+   "choice2": "running your html",
+   "choice3": "change the light and dark mode on your html",
+   "answer": "B"
+ },
+ {
+   "Timestamp": "11/7/2025 14:32:27",
+   "Email Address": "adi.p27@k12.xrds.org",
+   "text": "what does html stand for",
+   "choice0": "hand tom milk lover",
+   "choice1": "Home Tool Markup Language",
+   "choice2": "Hyperlinks and Text Mark Language",
+   "choice3": "Hyper text markup language",
+   "answer": "D"
+ },
+ {
+   "Timestamp": "11/7/2025 14:33:58",
+   "Email Address": "adi.p27@k12.xrds.org",
+   "text": "Which HTML element is used to define the largest heading?",
+   "choice0": "<h6>",
+   "choice1": "<head>",
+   "choice2": "<h1>",
+   "choice3": "<header>",
+   "answer": "C"
+ },
+ {
+   "Timestamp": "11/7/2025 14:30:33",
+   "Email Address": "aiden.p26@k12.xrds.org",
+   "text": "Which header format gives the largest header?",
+   "choice0": "<h1> ... <h1>",
+   "choice1": "<h3> ... <h3>",
+   "choice2": "<h5> ... <h5>",
+   "choice3": "<h6> ... <h6>",
+   "answer": "A"
+ },
+ {
+   "Timestamp": "11/7/2025 14:34:25",
+   "Email Address": "aiden.p26@k12.xrds.org",
+   "text": "What does html stand for?",
+   "choice0": "Hyperlinked Text Module Language",
+   "choice1": "How To Make Lasagna",
+   "choice2": "Hierarchical Tag Management Language",
+   "choice3": "Hypertext Markup Language",
+   "answer": "D"
+ },
+ {
+   "Timestamp": "11/7/2025 14:30:32",
+   "Email Address": "amelia.h26@k12.xrds.org",
+   "text": "How do you add a link in HTML?",
+   "choice0": "<link rel=\"\" type=\"\" href=\"[LINK]\">",
+   "choice1": "<img src=\"[LINK]\">",
+   "choice2": "<a href=\"[LINK]\">",
+   "choice3": "<!DOCTYPE html>",
+   "answer": "C"
+ },
+ {
+   "Timestamp": "11/7/2025 14:32:08",
+   "Email Address": "amelia.h26@k12.xrds.org",
+   "text": "amelia.h26@k12.xrds.org",
+   "choice0": "<ol> <li></li> </ol>",
+   "choice1": "<ul> <li></li> </ul>",
+   "choice2": "<nav> <a></a> </nav>",
+   "choice3": "<p></p>",
+   "answer": "B"
+ },
+ {
+   "Timestamp": "11/7/2025 14:33:14",
+   "Email Address": "amelia.h26@k12.xrds.org",
+   "text": "How do you add an ordered list in html?",
+   "choice0": "<ol> <li></li> </ol>",
+   "choice1": "<ul> <li></li> </ul>",
+   "choice2": "<nav> <a></a> </nav>",
+   "choice3": "<p></p>",
+   "answer": "A"
+ },
+ {
+   "Timestamp": "11/7/2025 14:29:43",
+   "Email Address": "anna.r27@k12.xrds.org",
+   "text": "What does CSS stand for? ",
+   "choice0": "Coding Style Sheets",
+   "choice1": "Cascading Style Sheets",
+   "choice2": "Code Shop Style",
+   "choice3": "Caring Style Sheets",
+   "answer": "B"
+ },
+ {
+   "Timestamp": "11/7/2025 14:31:37",
+   "Email Address": "anna.r27@k12.xrds.org",
+   "text": "How do you create a paragraph in HTML?",
+   "choice0": "<h1>...</h1>",
+   "choice1": "<w>...</w>",
+   "choice2": "<paragraph>...</paragraph>",
+   "choice3": "<p>...</p>",
+   "answer": "D"
+ },
+ {
+   "Timestamp": "11/7/2025 14:33:58",
+   "Email Address": "anna.r27@k12.xrds.org",
+   "text": "Which CSS property is used to change the text color?",
+   "choice0": "font-color",
+   "choice1": "text-style",
+   "choice2": "color",
+   "choice3": "text-color",
+   "answer": "C"
+ },
+ {
+   "Timestamp": "11/7/2025 14:27:56",
+   "Email Address": "armaan.h28@k12.xrds.org",
+   "text": "What tag is used to make text bold in html?",
+   "choice0": "<bold>",
+   "choice1": "<heavy>",
+   "choice2": "<strong>",
+   "choice3": "<dark>",
+   "answer": "C"
+ },
+ {
+   "Timestamp": "11/7/2025 14:28:46",
+   "Email Address": "armaan.h28@k12.xrds.org",
+   "text": "What tag creates a numbered list in html?",
+   "choice0": "<ol>",
+   "choice1": "<ul>",
+   "choice2": "<nl>",
+   "choice3": "<list>",
+   "answer": "A"
+ },
+ {
+   "Timestamp": "11/7/2025 14:29:45",
+   "Email Address": "armaan.h28@k12.xrds.org",
+   "text": "What tag is used to link to another page?",
+   "choice0": "<link>",
+   "choice1": "<href>",
+   "choice2": "<a>",
+   "choice3": "<url>",
+   "answer": "C"
+ },
+ {
+   "Timestamp": "11/7/2025 14:29:30",
+   "Email Address": "athens.t26@k12.xrds.org",
+   "text": "What is the big heading tag in html?",
+   "choice0": "<h1>",
+   "choice1": "<p>",
+   "choice2": "<a>",
+   "choice3": "<div>",
+   "answer": "A"
+ },
+ {
+   "Timestamp": "11/7/2025 14:32:31",
+   "Email Address": "athens.t26@k12.xrds.org",
+   "text": "What property outlines around an element in css?",
+   "choice0": "width/height",
+   "choice1": "text-align",
+   "choice2": "border",
+   "choice3": "padding",
+   "answer": "C"
+ },
+ {
+   "Timestamp": "11/7/2025 14:35:25",
+   "Email Address": "athens.t26@k12.xrds.org",
+   "text": "What property is a box model in css NOT made of?",
+   "choice0": "content",
+   "choice1": "padding",
+   "choice2": "margin",
+   "choice3": "color",
+   "answer": "D"
+ },
+ {
+   "Timestamp": "11/7/2025 14:31:33",
+   "Email Address": "beau.b27@k12.xrds.org",
+   "text": "what does the <title> tag do?",
+   "choice0": "Displays a large heading on the page",
+   "choice1": "Sets the title of the webpage shown in the browser tab",
+   "choice2": "Creates a link to another webpage",
+   "choice3": "Adds a tooltip when you hover over text",
+   "answer": "B"
+ },
+ {
+   "Timestamp": "11/7/2025 14:33:18",
+   "Email Address": "beau.b27@k12.xrds.org",
+   "text": "What is HTML used to code?",
+   "choice0": "websites",
+   "choice1": "video games",
+   "choice2": "anything in the world",
+   "choice3": "AI robots",
+   "answer": "A"
+ },
+ {
+   "Timestamp": "11/7/2025 14:34:27",
+   "Email Address": "beau.b27@k12.xrds.org",
+   "text": "what is the smallest header tag in HTML",
+   "choice0": "<h1>",
+   "choice1": "h1",
+   "choice2": "<h6>",
+   "choice3": "h6",
+   "answer": "C"
+ },
+ {
+   "Timestamp": "11/7/2025 14:28:31",
+   "Email Address": "daniel.c27@k12.xrds.org",
+   "text": "What is the color of the grass ",
+   "choice0": "green ",
+   "choice1": "yellow",
+   "choice2": "blue",
+   "choice3": "red",
+   "answer": "A"
+ },
+ {
+   "Timestamp": "11/7/2025 14:30:06",
+   "Email Address": "daniel.c27@k12.xrds.org",
+   "text": "What is cos(-pie/4)",
+   "choice0": "0",
+   "choice1": "root3/2",
+   "choice2": "1",
+   "choice3": "root2/2",
+   "answer": "D"
+ },
+ {
+   "Timestamp": "11/7/2025 14:31:31",
+   "Email Address": "daniel.c27@k12.xrds.org",
+   "text": "what language do people speak in Brazil",
+   "choice0": "English",
+   "choice1": "Spanish ",
+   "choice2": "Portugues ",
+   "choice3": "French",
+   "answer": "C"
+ },
+ {
+   "Timestamp": "11/7/2025 14:26:54",
+   "Email Address": "ethan.s26@k12.xrds.org",
+   "text": "How do you make a link in HTML",
+   "choice0": "<a href=\"url\">link text</a>",
+   "choice1": " <z ref=\"url\">link text</a>",
+   "choice2": "href=\"url\">link text",
+   "choice3": "<a \"url\">link </a>",
+   "answer": "A"
+ },
+ {
+   "Timestamp": "11/7/2025 14:29:47",
+   "Email Address": "ethan.s26@k12.xrds.org",
+   "text": "A {   text-align: center;   color: blue; } Which part of this line is the selector",
+   "choice0": "text-align",
+   "choice1": "center",
+   "choice2": "blue",
+   "choice3": "A",
+   "answer": "D"
+ },
+ {
+   "Timestamp": "11/7/2025 14:30:53",
+   "Email Address": "ethan.s26@k12.xrds.org",
+   "text": "Which of these is a correct way to display an image in html",
+   "choice0": "<img src=\"pic_trulli.jpg\" alt=\"Italian Trulli\">",
+   "choice1": "<img =\"pic_trulli\" alt=\"Italian Trulli\">",
+   "choice2": "<\"pic_trulli.jpg\" alt=\"Italian Trulli\">",
+   "choice3": "<img src=\"pic_trulli.jpg\" >",
+   "answer": "A"
+ },
+ {
+   "Timestamp": "11/7/2025 14:27:49",
+   "Email Address": "luca.m26@k12.xrds.org",
+   "text": "What does <a> tag do in HTML?",
+   "choice0": "Defines a paragraph",
+   "choice1": "Creates a hyperlink",
+   "choice2": "Displays an Image",
+   "choice3": "answers all lifes questions",
+   "answer": "B"
+ },
+ {
+   "Timestamp": "11/7/2025 14:29:04",
+   "Email Address": "luca.m26@k12.xrds.org",
+   "text": "Which tag is used to create the biggest text?",
+   "choice0": "<h6>",
+   "choice1": "<img>",
+   "choice2": "<p>",
+   "choice3": "<h1>",
+   "answer": "D"
+ },
+ {
+   "Timestamp": "11/7/2025 14:29:55",
+   "Email Address": "luca.m26@k12.xrds.org",
+   "text": "What CSS property is used to change the background color",
+   "choice0": "font-size",
+   "choice1": "color",
+   "choice2": "background-color",
+   "choice3": "font-color",
+   "answer": "C"
+ },
+ {
+   "Timestamp": "11/7/2025 14:29:08",
+   "Email Address": "nathan.r27@k12.xrds.org",
+   "text": "what is the biggest header",
+   "choice0": "h1",
+   "choice1": "h2",
+   "choice2": "h3",
+   "choice3": "h4",
+   "answer": "A"
+ },
+ {
+   "Timestamp": "11/7/2025 14:31:15",
+   "Email Address": "nathan.r27@k12.xrds.org",
+   "text": "What would you put in the blank? @app.route(\"/LearnHTML\") def learning_html():     return _____________(\"learningHTML.html\")",
+   "choice0": "TRUE",
+   "choice1": "Pull_Html",
+   "choice2": "render_template",
+   "choice3": "FALSE",
+   "answer": "C"
+ },
+ {
+   "Timestamp": "11/7/2025 14:33:39",
+   "Email Address": "nathan.r27@k12.xrds.org",
+   "text": "what port is best",
+   "choice0": "80",
+   "choice1": "800",
+   "choice2": "8000",
+   "choice3": "80000",
+   "answer": "C"
+ },
+ {
+   "Timestamp": "11/7/2025 14:33:38",
+   "Email Address": "noah.k27@k12.xrds.org",
+   "text": "What is CSS used for?",
+   "choice0": "Painting",
+   "choice1": "Styling",
+   "choice2": "Organizing",
+   "choice3": "Counting",
+   "answer": "B"
+ },
+ {
+   "Timestamp": "11/7/2025 14:34:57",
+   "Email Address": "noah.k27@k12.xrds.org",
+   "text": "Who is the godfather of AI?",
+   "choice0": "Elon Musk",
+   "choice1": "Sam Altman",
+   "choice2": "Geoffrey Everest Hinton",
+   "choice3": "Nikola Tesla",
+   "answer": "C"
+ },
+ {
+   "Timestamp": "11/7/2025 14:30:04",
+   "Email Address": "ruth.b27@k12.xrds.org",
+   "text": "What does HTML stand for? ",
+   "choice0": "Hyper Text Markup Language",
+   "choice1": "Hyper Text Make Language",
+   "choice2": "Hyper Tool Multi Language",
+   "choice3": "Hyper Text Marketing Language",
+   "answer": "A"
+ },
+ {
+   "Timestamp": "11/7/2025 14:31:07",
+   "Email Address": "ruth.b27@k12.xrds.org",
+   "text": "Paragraphs are enclosed in.... ",
+   "choice0": "<d> ",
+   "choice1": "<g> ",
+   "choice2": "<p> ",
+   "choice3": "<r> ",
+   "answer": "C"
+ },
+ {
+   "Timestamp": "11/7/2025 14:33:01",
+   "Email Address": "ruth.b27@k12.xrds.org",
+   "text": "What does CSS stand for?",
+   "choice0": "Computer Style Sheets",
+   "choice1": "Creative Style System",
+   "choice2": "Cascading Style Sheets",
+   "choice3": " Colorful Style Syntax",
+   "answer": "C"
+ },
+ {
+   "Timestamp": "11/7/2025 14:30:33",
+   "Email Address": "taj.m27@k12.xrds.org",
+   "text": "What is the difference between <h1> and <h4>",
+   "choice0": "The order in the code ",
+   "choice1": "The size of the header ",
+   "choice2": "The amount of boldness",
+   "choice3": "The alignment on the page ",
+   "answer": "B"
+ },
+ {
+   "Timestamp": "11/7/2025 14:32:33",
+   "Email Address": "taj.m27@k12.xrds.org",
+   "text": "How can you have an HTML tag in text on your website?",
+   "choice0": "\"<p>\"",
+   "choice1": "<p>'",
+   "choice2": "&lt;p&gt;",
+   "choice3": "lt;pgt;",
+   "answer": "C"
+ },
+ {
+   "Timestamp": "11/7/2025 14:34:00",
+   "Email Address": "taj.m27@k12.xrds.org",
+   "text": "How would one change the color of text in css",
+   "choice0": "font color=\"\"",
+   "choice1": "color =\"\"",
+   "choice2": "rgb=\"\"",
+   "choice3": "color value=\"\"",
+   "answer": "A"
+ },
+ {
+   "Timestamp": "11/7/2025 14:30:10",
+   "Email Address": "theo.s27@k12.xrds.org",
+   "text": "What is CSS",
+   "choice0": "A programming language used to create mobile apps",
+   "choice1": "A markup language for structuring web pages",
+   "choice2": "A style sheet language used to describe the presentation of a document written in HTML",
+   "choice3": "A database query language for retrieving information",
+   "answer": "C"
+ },
+ {
+   "Timestamp": "11/7/2025 14:32:08",
+   "Email Address": "theo.s27@k12.xrds.org",
+   "text": "What does HTML stand for?",
+   "choice0": "Hyper Text Managing Language",
+   "choice1": "Hyperlinks and Text Markup Language",
+   "choice2": "Hyper Text Markup Language",
+   "choice3": "Home Tool Markup Language",
+   "answer": "C"
+ },
+ {
+   "Timestamp": "11/7/2025 14:33:10",
+   "Email Address": "theo.s27@k12.xrds.org",
+   "text": "Which HTML tag is used to insert an image?",
+   "choice0": "<pic>",
+   "choice1": "<image>",
+   "choice2": "<img>",
+   "choice3": "<src>",
+   "answer": "C"
+ },
+ {
+   "Timestamp": "11/7/2025 14:27:49",
+   "Email Address": "theo.t26@k12.xrds.org",
+   "text": "What line of code does every single HTML website need to start with?",
+   "choice0": "<SET_UP HTML>",
+   "choice1": "<!ARCTYPE html>",
+   "choice2": "<!RESET HTML>",
+   "choice3": "<!DOCTYPE html>",
+   "answer": "D"
+ },
+ {
+   "Timestamp": "11/7/2025 14:30:27",
+   "Email Address": "theo.t26@k12.xrds.org",
+   "text": "What number replacing the \"?\" makes the string \"<h?> </h?>\" the biggest size possible?",
+   "choice0": "1",
+   "choice1": "1.1",
+   "choice2": "10",
+   "choice3": "It depends on the website.",
+   "answer": "A"
+ },
+ {
+   "Timestamp": "11/7/2025 14:33:29",
+   "Email Address": "theo.t26@k12.xrds.org",
+   "text": "What is the correct formatting to put a google link inside text?",
+   "choice0": "<a link=\"https://www.google.com\">Visit Google</a>",
+   "choice1": "<INSRT link=\"https://www.google.com\">Visit Google</INSRT>",
+   "choice2": "<a href=\"https://www.google.com\">Visit Google</a>",
+   "choice3": "href=\"https://www.google.com\">Visit Google</a>",
+   "answer": "C"
+ },
+ {
+   "Timestamp": "11/7/2025 14:30:13",
+   "Email Address": "vincent.b28@k12.xrds.org",
+   "text": "When was CSS invented?",
+   "choice0": "2000",
+   "choice1": "1994",
+   "choice2": "1998",
+   "choice3": "2021",
+   "answer": "B"
+ },
+ {
+   "Timestamp": "11/7/2025 14:31:09",
+   "Email Address": "vincent.b28@k12.xrds.org",
+   "text": "When was HTML invented?",
+   "choice0": "1983",
+   "choice1": "1857",
+   "choice2": "2001",
+   "choice3": "1989",
+   "answer": "D"
+ },
+ {
+   "Timestamp": "11/7/2025 14:33:28",
+   "Email Address": "vincent.b28@k12.xrds.org",
+   "text": "Who created HTML?",
+   "choice0": "Tony Stark",
+   "choice1": "Robert Smithington",
+   "choice2": "Bill Gates",
+   "choice3": "Tim Berners-Lee",
+   "answer": "D"
+ },
+ {
+   "Timestamp": "11/7/2025 14:28:58",
+   "Email Address": "william.d27@k12.xrds.org",
+   "text": "How do you make text bold and stand out in CSS?",
+   "choice0": "<strong>",
+   "choice1": "<bold>",
+   "choice2": "<powerful>",
+   "choice3": "<big>",
+   "answer": "A"
+ },
+ {
+   "Timestamp": "11/7/2025 14:32:29",
+   "Email Address": "william.d27@k12.xrds.org",
+   "text": "What html tag <p> stand for?",
+   "choice0": "pull",
+   "choice1": "paragraph",
+   "choice2": "push",
+   "choice3": "page",
+   "answer": "B"
+ },
+ {
+   "Timestamp": "11/7/2025 14:36:54",
+   "Email Address": "noah.k27@k12.xrds.org",
+   "text": "Which port is standard for Flask/VSCode?",
+   "choice0": "1000",
+   "choice1": "3000",
+   "choice2": "5000",
+   "choice3": "8000",
+   "answer": "C"
+ },
+ {
+   "Timestamp": "11/7/2025 14:37:17",
+   "Email Address": "aiden.p26@k12.xrds.org",
+   "text": "What does CSS stand for?",
+   "choice0": "Cascading Style Syntax",
+   "choice1": "Crying Sadly in Syntax",
+   "choice2": "Cascading Style Sheets",
+   "choice3": "Code Structure Sheets",
+   "answer": "C"
+ },
+ {
+   "Timestamp": "11/7/2025 14:37:55",
+   "Email Address": "william.d27@k12.xrds.org",
+   "text": "What is the main use for HTML",
+   "choice0": "Websites",
+   "choice1": "Games",
+   "choice2": "Robots",
+   "choice3": "Elevators",
+   "answer": "A"
+ },
+ {
+   "Timestamp": "11/13/2025 9:22:13",
+   "Email Address": "madeleine.k26@k12.xrds.org",
+   "text": "What does HTML stand for?",
+   "choice0": "Happily Marshmallow Logs",
+   "choice1": "Hypertext Markup Language",
+   "choice2": "Hunting The Most Lambs",
+   "choice3": "Hypertext Make Law",
+   "answer": "B"
+ }
+]
